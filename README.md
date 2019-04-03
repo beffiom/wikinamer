@@ -20,11 +20,17 @@ wikinamer is a command line tool for unix based operating systems to update file
 
 ## Usage
 `$ bash /path-to-directory/wikinamer/wikinamer [Path to Directory Where File Names Should Be Changed]`
+
 What season number are the episodes in this directory apart of?
+
 `$ Enter season number:`
+
 Check the listing of episodes on the wikipedia page. Enter the number in the first column of the first episode you want in your list.
+
 `$ Enter episode number to start at:`
+
 Copy and paste and the wikipedia URL with the episode listing here
+
 `$ Enter sauce: `
 
 ## Issues
